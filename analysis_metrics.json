@@ -1,0 +1,78 @@
+{
+  "rows_total": 187531,
+  "columns_total": 21,
+  "valid_price_rows": 177838,
+  "model_rows": 18000,
+  "median_price_inr": 7800000.0,
+  "mean_price_inr": 11822317.052598432,
+  "area_coverage_pct": 57.08285068433069,
+  "mae_inr": 1351881.217878772,
+  "rmse_inr": 5617560.324680577,
+  "r2": 0.805108270219103,
+  "train_rows": 14400,
+  "test_rows": 3600,
+  "missing_pct": {
+    "plot_area_sqft": 100.0,
+    "Dimensions": 100.0,
+    "Plot Area": 100.0,
+    "Society": 58.5,
+    "Super Area": 57.4,
+    "super_area_sqft": 57.4,
+    "parking_count": 55.1,
+    "Car Parking": 55.1
+  },
+  "top_locations_by_volume": {
+    "new-delhi": 24945,
+    "bangalore": 23262,
+    "kolkata": 21605,
+    "gurgaon": 18842,
+    "ahmedabad": 12614,
+    "hyderabad": 11147,
+    "chennai": 10163,
+    "jaipur": 7867,
+    "greater-noida": 4490,
+    "faridabad": 3733
+  },
+  "top_median_locations": {
+    "mumbai": {
+      "listings": 1814,
+      "median_price_inr": 21000000.0
+    },
+    "new-delhi": {
+      "listings": 24945,
+      "median_price_inr": 16000000.0
+    },
+    "gurgaon": {
+      "listings": 18842,
+      "median_price_inr": 15700000.0
+    },
+    "noida": {
+      "listings": 1247,
+      "median_price_inr": 8500000.0
+    },
+    "bangalore": {
+      "listings": 23262,
+      "median_price_inr": 8500000.0
+    },
+    "navi-mumbai": {
+      "listings": 691,
+      "median_price_inr": 8500000.0
+    },
+    "hyderabad": {
+      "listings": 11147,
+      "median_price_inr": 8180000.0
+    },
+    "kochi": {
+      "listings": 1029,
+      "median_price_inr": 7900000.0
+    },
+    "faridabad": {
+      "listings": 3733,
+      "median_price_inr": 7500000.0
+    },
+    "patna": {
+      "listings": 771,
+      "median_price_inr": 7200000.0
+    }
+  }
+}
